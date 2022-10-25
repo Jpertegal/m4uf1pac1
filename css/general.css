@@ -1,0 +1,23 @@
+main p{
+    margin-left: 8vw;
+    margin-right: 8vw;
+    border-bottom: 1px solid black;
+    margin-bottom: 2vw;
+    padding-bottom: 2vw;
+}
+
+main h3 {
+    margin-left: 7.5vw;
+    margin-bottom: 2vw
+}
+
+main section h3:first-child {
+    margin-left: 7.5vw;
+    margin-bottom: 2vw;
+    margin-top: 2vw;
+}
+
+main h2{
+    margin: 5vw 7vw 1vw 7vw;
+    border-bottom: 1px solid black;
+}

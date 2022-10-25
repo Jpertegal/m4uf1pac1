@@ -1,0 +1,10 @@
+table{
+    margin-top: 5vw;
+}
+td:hover{
+    background-color: pink;
+}
+
+footer{
+    width: 137%;
+}

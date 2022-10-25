@@ -1,0 +1,28 @@
+main img{
+    margin-left: 5vw;
+    margin-top: 5vw;
+    float: left;
+    border-radius:5vw ;
+}
+
+main section{
+    display: inline-block;
+    width: 30vw;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    padding-bottom:6vw ;
+    margin-left: 10vw;
+    margin-top: 5vw;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+main section p{
+    margin-left: 0.6vw;
+}
+
+main section h2{
+    margin-bottom: 1vw;
+    font-size:3vw;
+}
+
