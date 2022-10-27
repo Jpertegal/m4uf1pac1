@@ -1,5 +1,6 @@
 table{
     margin-top: 5vw;
+    border: 1;
 }
 td:hover{
     background-color: pink;
@@ -7,4 +8,8 @@ td:hover{
 
 footer{
     width: 137%;
+}
+section h2{
+    padding-top: 5vw;
+    margin-left: 2vw ;
 }
